@@ -4,3 +4,5 @@ This repository includes learning of the basic python liberaries used for data s
 1.Numpy
 
 2.Pandas
+
+3.Sklearn
