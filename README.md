@@ -1,5 +1,5 @@
 # Data-Science
-This repository includes learning of the basic python liberaries used for data science.
+This repository includes learning of the basic python libraries used for data science.
 
 1.Numpy
 
